@@ -53,6 +53,8 @@ h1 {
 }
 
 main img {
+    width: 800px;
+    height: 500px;
     border: 1px solid white;
     border-radius: 50px;
 }
